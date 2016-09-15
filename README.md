@@ -8,7 +8,9 @@ The Scientific World Journal
 Volume 2014 (2014), Article ID 790103, 11 pages
 http://dx.doi.org/10.1155/2014/790103
 
-#Abstract We propose a mobility-assisted on-demand routing algorithm for mobile ad hoc networks in the presence of location errors. 
+#Abstract 
+
+We propose a mobility-assisted on-demand routing algorithm for mobile ad hoc networks in the presence of location errors. 
 Location awareness enables mobile nodes to predict their mobility and enhances routing performance by estimating link duration and selecting reliable routes. However, measured locations intrinsically include errors in measurement. 
 Such errors degrade mobility prediction and have been ignored in previous work. 
 To mitigate the impact of location errors on routing, we propose an on-demand routing algorithm taking into account location errors. To that end, we adopt the Kalman filter to estimate accurate locations and consider route confidence in discovering routes. Via simulations, we compare our algorithm and previous algorithms in various environments. 

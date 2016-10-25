@@ -1,12 +1,9 @@
 
 This is a code package is related to the following  article:
 
-“Mobility-Assisted on-Demand Routing Algorithm for MANETs in the Presence of Location Errors,” 
+Trung Kien Vu and Sungoh Kwon, “Mobility-Assisted on-Demand Routing Algorithm for MANETs in the Presence of Location Errors,” 
 The Scientific World Journal, vol. 2014, Article ID 790103, 11 pages, 2014. doi:10.1155/2014/790103
 
-The Scientific World Journal
-Volume 2014 (2014), Article ID 790103, 11 pages
-http://dx.doi.org/10.1155/2014/790103
 
 #Abstract 
 

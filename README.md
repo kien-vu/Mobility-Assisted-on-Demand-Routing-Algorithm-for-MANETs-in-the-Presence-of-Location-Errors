@@ -16,9 +16,13 @@ Our proposed mobility prediction is robust to the location errors.
 #Content of Code Package
 
 The paper contains a modified-AODV routing algorithm, which implements the mobility prediction based AODV routing algorithm. 
-Requires:
+
+#Requires:
+
 Operating System: Ubuntu 10.04 http://old-releases.ubuntu.com/releases/10.04.3/
+
 Network simulator 2 http://www.isi.edu/nsnam/ns/
+
 AODV routing algorithm: Which may require you to do some modifications based on the paper to get the simulation results.
 
 
